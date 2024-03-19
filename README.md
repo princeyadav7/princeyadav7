@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,kotlin,java,dart,javascript,androidstudio,flutter,html,css,vscode,git,github,powershell,stackoverflow,firebase,sqlite,mysql,ps,figma,xd&perline=10&theme=light" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,kotlin,java,dart,javascript,androidstudio,flutter,html,css,vscode,git,github,powershell,stackoverflow,firebase,sqlite,mysql,ps,figma, powerbi,sql,xd&perline=10&theme=light" alt="My Skills" />
   </a>
 </p>
 
