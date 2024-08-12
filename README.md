@@ -3,11 +3,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.vox-cdn.com/thumbor/SiIyeqmKIJGcOJccz94pHgwmgvQ=/0x0:1400x1400/1200x800/filters:focal(588x588:812x812):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68837730/poptart1redrainbowfix_1.0.gif">
 
-- 🌱 I’m currently learning **Data Analytics For Personal Projects And DSA For Better Problem Solving Skills.**
+🌱 I’m currently learning **Data Analytics For Personal Projects And DSA For Better Problem Solving Skills.**
 
-- ❄️ Portfolio Link: **https://princeyadav7.github.io/princeyadav.github.io/**
+❄️ Portfolio Link: **https://princeyadav7.github.io/princeyadav.github.io/**
 
-- 📫 How to reach me **princeyadav841@gmail.com**
+📫 How to reach me **princeyadav841@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="centre">
@@ -24,5 +24,7 @@
   </a>
 </p>
 
+
+<h3 align="left">Github Stats:</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=princeyadav7&show_icons=true&locale=en&theme=radical" alt="princeyadav7" /></p>
