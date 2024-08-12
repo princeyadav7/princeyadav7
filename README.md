@@ -10,15 +10,15 @@
 - 📫 How to reach me **princeyadav841@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="centre">
 
-<a href="https://www.linkedin.com/in/prince-yadav-393139227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="price yadav" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prince-yadav-393139227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="princeyadav7" height="30" width="40" /></a>
 <a href="https://instagram.com/_priince7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_priince7" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,python,c,cpp,flutter,dart,androidstudio,html,css,vscode,git,github,stackoverflow,firebase,discord&perline=10&theme=light" alt="My Skills" />
   </a>
