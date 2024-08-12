@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sql,mysql,python,powerbi,tableau,sqllite,c,cpp,flutter	,dart,androidstudio,html,css,vscode,git,github,powershell,stackoverflow,firebase,discord&perline=10&theme=light" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=sql,mysql,sqlite,postgres,python,powerbi,tableau,c,cpp,flutter,dart,androidstudio,html,css,vscode,git,github,powershell,stackoverflow,firebase,discord&perline=10&theme=light" alt="My Skills" />
   </a>
 </p>
 
