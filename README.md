@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Data Analytics For Personal Projects And DSA For Better Problem Solving Skills.**
 
+-Website Link: https://princeyadav7.github.io/princeyadav.github.io/
+
 - 📫 How to reach me **princeyadav841@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
