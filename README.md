@@ -1,18 +1,21 @@
-<p align="center">
-  <img src="https://cdn.vox-cdn.com/thumbor/SiIyeqmKIJGcOJccz94pHgwmgvQ=/0x0:1400x1400/1200x800/filters:focal(588x588:812x812):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68837730/poptart1redrainbowfix_1.0.gif" alt="Nyan Cat" width="250">
-</p>
-
-<h1 align="center">Hi, I'm Prince Yadav 👋</h1>
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=9436F7&center=true&vCenter=true&width=450&lines=Zoho+Developer;Business+Consultant;Driving+Business+Growth" alt="Typing SVG" /></a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/princeyadav7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:princeyadav841@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://princeyadav7.github.io/princeyadav.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-9436F7?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
-</p>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="65%" valign="top">
+      <h1 align="left">Hi, I'm Prince Yadav 👋</h1>
+      <p align="left">
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=9436F7&center=false&vCenter=true&width=420&lines=Zoho+Developer;Business+Consultant;Driving+Business+Growth" alt="Typing SVG" /></a>
+      </p>
+      <p align="left">
+        <a href="https://www.linkedin.com/in/princeyadav7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+        <a href="mailto:princeyadav841@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+        <a href="https://princeyadav7.github.io/princeyadav.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-9436F7?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
+      </p>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://cdn.vox-cdn.com/thumbor/SiIyeqmKIJGcOJccz94pHgwmgvQ=/0x0:1400x1400/1200x800/filters:focal(588x588:812x812):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68837730/poptart1redrainbowfix_1.0.gif" alt="Nyan Cat" width="250">
+    </td>
+  </tr>
+</table>
 
 ---
 
