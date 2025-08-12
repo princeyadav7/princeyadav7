@@ -6,7 +6,7 @@
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=9436F7&center=false&vCenter=true&width=350&lines=Zoho+Developer;Business+Consultant;Driving+Business" alt="Typing SVG" /></a>
       </p>
       <p align="left">
-        <a href="https://www.linkedin.com/in/prince-yadav-393139227/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+        <a href="https://www.linkedin.com/in/princeyadav7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
         <a href="mailto:princeyadav841@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
         <a href="https://princeyadav7.github.io/princeyadav.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-9436F7?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
       </p>
@@ -43,7 +43,7 @@ I'm a **Zoho Developer and Consultant** focused on building digital solutions th
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode,figma,postman&theme=dark&perline=10" alt="My Skills"/>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,postman,mysql,postgres,git,github,vscode,figma&theme=dark&perline=10" alt="My Skills"/>
   </a>
 </p>
 
@@ -57,16 +57,7 @@ I'm a **Zoho Developer and Consultant** focused on building digital solutions th
       <img src="https://github-readme-stats.vercel.app/api?username=princeyadav7&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Prince's GitHub Stats"/>
     </td>
   </tr>
-  <tr align="center">
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=princeyadav7&theme=dracula&hide_border=true" alt="Prince's GitHub Streak"/>
-    </td>
-  </tr>
-  <tr align="center">
-    <td>
-      <img src="https://github-profile-trophy.vercel.app/?username=princeyadav7&theme=dracula&column=6&no-frame=true&margin-w=15" alt="Trophies" />
-    </td>
-  </tr>
+  
 </table>
 
 ---
